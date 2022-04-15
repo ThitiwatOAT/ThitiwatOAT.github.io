@@ -1,10 +1,17 @@
+# My zone
+
+## SCMA340 Homework14
+<a href="https://ThitiwatOAT.github.io/../../p1.html"><em>SCMA340 Homework14 link</em></a>
+
+
+# Original file still not read
+
 ## Welcome to GitHub Pages
 
 
 
 You can use the [editor on GitHub](https://github.com/ThitiwatOAT/ThitiwatOAT.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-<p>SCMA340 Homework3 <a href="https://ThitiwatOAT.github.io/../../page1.html"><em>link</em></a></p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
